@@ -31,7 +31,7 @@
     }
 
     echo '<div style="margin:30px 0;width:100%;text-align:center;float:left;">';
-    echo '<img style="border:none;" src="'. plugins_url( 'media/logo.png', __FILE__ ) .'"><br>';
+    echo '<img style="border:none;" src="'. plugins_url( 'media/logo.png', __FILE__ ) .'"><br><br>';
     echo '<span style="
       font-weight: bold;
       color: #207090;
@@ -49,7 +49,7 @@
     echo '<span style="
         font-weight: lighter;
         font-size: 1.5em;
-        ">Sono i pagamenti '.$chi.'<br><small>da gennaio '.$anno.' ad oggi<br>
+        ">Sono i pagamenti '.$chi.'<br><small>da gennaio '.$anno.' ad oggi<br><br>
         <small><a style="font-weight:bold;text-decoration:none;" href="http://soldipubblici.gov.it" title="Soldi Pubblici" target="_blank">www.soldipubblici.gov.it</a></small></small></span>';
     echo '</div>';
 

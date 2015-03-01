@@ -3,7 +3,7 @@ Contributors: Milmor
 Tags: soldi, pubblici, gov, spesa, pubblica, wpgov, marco, milesi
 Requires at least: 3.6
 Tested up to: 4.2
-Stable tag: 0.1
+Stable tag: 0.2
 
 Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 

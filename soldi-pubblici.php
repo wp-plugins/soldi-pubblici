@@ -5,7 +5,7 @@ Plugin URI: http://wpgov.it
 Description: Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 Author: Marco Milesi
 Author URI: http://marcomilesi.ml
-Version: 0.1
+Version: 0.2
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
