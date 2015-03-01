@@ -1,6 +1,6 @@
 === Soldi Pubblici ===
 Contributors: Milmor
-Tags: 
+Tags: soldi, pubblici, gov, spesa, pubblica, wpgov, marco, milesi
 Requires at least: 3.6
 Tested up to: 4.2
 Stable tag: 0.1
@@ -9,7 +9,9 @@ Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 
 == Description ==
 
-Plugin per l'interfacciamento con il portale soldipubblici.gov.it in fase di sviluppo
+> Versione beta
+
+Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 
 
 == Installation ==
@@ -22,3 +24,6 @@ Plugin per l'interfacciamento con il portale soldipubblici.gov.it in fase di svi
 == Screenshots ==
 
 == Changelog ==
+
+= Versione 0.1 01/03/2015 =
+* Plugin approvato e caricato!
