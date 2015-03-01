@@ -13,6 +13,8 @@ Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 
 Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 
+**This plugin is intended for italian public administrations only.**
+
 
 == Installation ==
 
