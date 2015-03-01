@@ -25,6 +25,8 @@ Plugin per l'interfacciamento con il portale soldipubblici.gov.it
 
 == Screenshots ==
 
+1. Esempio di visualizzazione
+
 == Changelog ==
 
 = Versione 0.1 01/03/2015 =
