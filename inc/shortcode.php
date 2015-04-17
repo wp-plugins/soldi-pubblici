@@ -49,7 +49,7 @@
     echo '<span style="
         font-weight: lighter;
         font-size: 1.5em;
-        ">Sono i pagamenti '.$chi.'<br><small>da gennaio '.$anno.' ad oggi<br><br>
+        ">Sono i pagamenti '.$chi.'<br><small>da gennaio '.$anno.' ad oggi<br>
         <small><a style="font-weight:bold;text-decoration:none;" href="http://soldipubblici.gov.it" title="Soldi Pubblici" target="_blank">www.soldipubblici.gov.it</a></small></small></span>';
     echo '</div>';
 
